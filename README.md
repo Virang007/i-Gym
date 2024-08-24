@@ -42,8 +42,8 @@ Here are some screenshots of the application:
    ```bash
    git clone https://github.com/Virang007/i-Gym.git
 
-   ## Contact
 
+## Contact
 For any inquiries, feedback, or support, feel free to reach out:
 
 - **Name**: Virang Acharya
