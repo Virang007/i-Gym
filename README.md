@@ -1,4 +1,5 @@
-# Full Stack I-GYM Application
+# Full Stack I-GYM Wevsite
+
 
 A comprehensive Full Stack Gym Application built with React, Node.js, MongoDB, and Express. This application features user authentication, workout tracking, and email functionality.
 
